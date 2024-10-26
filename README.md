@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, javascript, nextjs**
 
-- 📫 How to reach me **nav@navdev.xyz**
+- 📫 How to reach me **naufaldes07@gmail.com**
 
 - ⚡ Fun fact **I am Human**
 
