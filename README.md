@@ -56,8 +56,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NaufalxDs/NaufalxDs/output/snake.svg" alt="Snake animation" />
-
 ###
