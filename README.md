@@ -46,7 +46,7 @@
 ###
 
 <div align="left">
-  <a href="instagram.com/@naufal.banh" target="_blank">
+  <a href="https://instagram.com/@naufal.banh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/718259600117465158" target="_blank">
