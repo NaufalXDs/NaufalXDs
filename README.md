@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is N4cv and I'm a Web Developer, from Navtech</h2>
+<h2 align="left">Hi 👋! My name is N4cv and I'm a Web Developer & Internet Of Things Developer, from Navtech</h2>
 
 ###
 
