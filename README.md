@@ -1,7 +1,7 @@
 # Hi 👋, I'm Naufal (N4cv)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Tech+Nerd+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;IoT+Developer+%F0%9F%A4%96;From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Tech+Nerd+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;IoT+Developer+%F0%9F%A4%96;Cloud+%26+Self-Hosted+Enthusiast+%E2%98%81%EF%B8%8F;From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,6 +15,7 @@
 - 🏢 Founder of **[NavTech](https://navtech.my.id)** - Turning hobbies into innovative tech projects
 - 🔭 Currently building **Next Generation Dashboard IoT**
 - 🎯 Passionate about **Web Development, Internet of Things & Automation**
+- ☁️ Interested in **Cloud Computing, Servers & Self-Hosted Solutions**
 - 📍 Based in **Indonesia** 🇮🇩
 - 💡 Love experimenting with hardware and software integration
 - 🌱 Always learning and exploring new technologies
@@ -45,8 +46,17 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 IoT & Hardware
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/-ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Self Hosted](https://img.shields.io/badge/-Self%20Hosted-FFA500?style=for-the-badge&logo=homeassistant&logoColor=white)
 
 ### 🔧 Tools & OS
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -81,6 +91,8 @@
 Real-time IoT monitoring and control dashboard built with modern web technologies. A NavTech project combining my passion for web development and hardware integration.
 
 **Tech Stack:** Next.js, React, WebSocket, TypeScript  
+**Hardware:** ESP32, Raspberry Pi, STM32  
+**Infrastructure:** Self-hosted on Linux server with Docker  
 **Features:** Real-time data visualization, device control, responsive design  
 🔗 [View Repositories](https://github.com/NaufalXDs?tab=repositories)
 
@@ -111,11 +123,45 @@ Real-time IoT monitoring and control dashboard built with modern web technologie
 
 At **NavTech**, I transform my tech hobbies into real projects:
 
-- 🌐 Building web applications with modern frameworks
-- 🔌 Creating IoT solutions for smart automation
-- 🤖 Developing automation tools and bots
-- 📊 Designing data visualization dashboards
-- 🔧 Experimenting with Raspberry Pi and Arduino projects
+- 🌐 Building web applications with modern frameworks (React, Next.js)
+- 🔌 Creating IoT solutions with ESP32, ESP8266, and Raspberry Pi
+- ⚙️ Developing embedded systems using STM32 and Arduino
+- ☁️ Managing self-hosted services and cloud infrastructure
+- 🖥️ Setting up and maintaining Linux servers
+- 🐳 Containerizing applications with Docker
+- 🤖 Building automation tools and smart home systems
+- 📊 Designing real-time data visualization dashboards
+- 🔧 Experimenting with hardware-software integration projects
+
+---
+
+## 🔌 Hardware Experience
+
+<div align="center">
+
+| Hardware Platform | Experience Level | Primary Use Cases |
+|-------------------|------------------|-------------------|
+| **STM32** | Advanced | Embedded systems, Real-time applications |
+| **Arduino** | Expert | Prototyping, Educational projects, Sensors |
+| **Raspberry Pi** | Expert | IoT gateway, Web server, Home automation |
+| **ESP32** | Expert | WiFi/Bluetooth IoT, Wireless sensors |
+| **ESP8266** | Advanced | WiFi IoT devices, Smart home nodes |
+
+</div>
+
+---
+
+## ☁️ Cloud & Self-Hosted Interests
+
+I'm passionate about owning my data and infrastructure:
+
+- 🏠 **Self-Hosted Services**: Running personal cloud services, media servers, and automation tools
+- 🖥️ **Server Management**: Linux server administration, security hardening, and optimization
+- 🐳 **Containerization**: Docker for application deployment and management
+- 🌐 **Web Servers**: Nginx configuration for reverse proxy and load balancing
+- 🔒 **Security**: SSL/TLS certificates, firewall configuration, and secure remote access
+- 📦 **Virtualization**: Exploring Proxmox for VM and container management
+- ⚡ **Performance**: Server optimization and resource monitoring
 
 ---
 
