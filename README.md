@@ -105,7 +105,7 @@ Real-time IoT monitoring and control dashboard built with modern web technologie
 | Organization | Role | Description |
 |--------------|------|-------------|
 | 🚀 **NavTech** | Founder & Developer | Personal tech company for hobby projects - Web Development & IoT Solutions |
-| 🎮 **Human** | Contributor | Gaming Community & Open Source Projects |
+| 🎮 **Human** | Contributor | Gaming Community |
 
 </div>
 
