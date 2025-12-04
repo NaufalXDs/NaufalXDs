@@ -84,18 +84,6 @@ Real-time IoT monitoring and control dashboard built with modern web technologie
 **Features:** Real-time data visualization, device control, responsive design  
 🔗 [View Repositories](https://github.com/NaufalXDs?tab=repositories)
 
-### 🔄 Auto Backup
-A blazingly fast performance auto backup script with comprehensive logging system
-
-**Tech Stack:** Shell Script, Automation  
-🔗 [View Repository](https://github.com/NaufalXDs/Auto-Backup)
-
-### 🤖 Invitation Bot
-Automated bot for invitation management and task automation
-
-**Tech Stack:** Python, Automation  
-🔗 [View Repository](https://github.com/NaufalXDs/Invitation-Bot)
-
 ---
 
 ## 🏢 Organizations & Communities
