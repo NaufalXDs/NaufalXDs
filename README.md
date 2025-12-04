@@ -1,55 +1,148 @@
-<h2 align="left">Hi 👋! My name is N4cv and I'm a Web Developer & Internet Of Things Developer, from Navtech</h2>
-
-###
+# Hi 👋, I'm Naufal (N4cv)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaufalxDs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NaufalxDs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Tech+Nerd+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;IoT+Developer+%F0%9F%A4%96;From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 </div>
 
-###
+<p align="center">
+  <i>I do what I'd like to do, I'm a tech or computer enthusiast. 🖥️</i>
+</p>
 
-<img align="right" height="150" src="https://media1.tenor.com/m/vLK4Mq3jiKIAAAAd/cat-no.gif"  />
+---
 
-###
+## 🚀 About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+- 💼 Working at **[NavTech](https://navtech.my.id)** as Web Developer & IoT Developer
+- 🔭 Currently building **Next Generation Dashboard IoT**
+- 🎯 Passionate about **Web Development, Internet of Things & Automation**
+- 📍 Based in **Indonesia** 🇮🇩
+- 🌱 Always learning and exploring new technologies
+- 📫 Reach me: **n4cv@navtech.my.id**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 IoT & Hardware
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### 🔧 Tools & OS
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://instagram.com/@naufal.banh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/718259600117465158" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NaufalXDs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalXDs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaufalXDs&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500" />
+</div>
 
-###
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NaufalXDs&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+### 🌐 Next Generation Dashboard IoT
+Real-time IoT monitoring and control dashboard built with modern web technologies
+
+**Tech Stack:** Next.js, React, WebSocket, TypeScript  
+🔗 [View Repositories](https://github.com/NaufalXDs?tab=repositories)
+
+---
+
+## 🏢 Organizations
+
+<div align="center">
+
+| Organization | Role | Description |
+|--------------|------|-------------|
+| **NavTech** | Developer | Web Development & IoT Solutions |
+| **Human** | Contributor | Gaming Comunity |
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaufalXDs&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n4cv@navtech.my.id)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/naufal.banh)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/718259600117465158)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaufalXDs)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 📈 Profile Views & Stats
+  
+<img src="https://komarev.com/ghpvc/?username=NaufalXDs&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
+![Followers](https://img.shields.io/github/followers/NaufalXDs?style=for-the-badge&logo=github&logoColor=white&color=0e75b6)
+![Total Stars](https://img.shields.io/github/stars/NaufalXDs?style=for-the-badge&logo=github&logoColor=white&color=0e75b6)
+
+### 🐱 Fun Fact
+
+<img src="https://media1.tenor.com/m/vLK4Mq3jiKIAAAAd/cat-no.gif" width="250" alt="Cat GIF" />
+
+### 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  
+  **⭐️ From [NaufalXDs](https://github.com/NaufalXDs) | Made with ❤️ in Indonesia 🇮🇩**
+  
+  *Member since July 2020 • 10 Public Repos • 3 Followers*
+</div>
