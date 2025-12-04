@@ -12,10 +12,11 @@
 
 ## 🚀 About Me
 
-- 💼 Working at **[NavTech](https://navtech.my.id)** as Web Developer & IoT Developer
+- 🏢 Founder of **[NavTech](https://navtech.my.id)** - Turning hobbies into innovative tech projects
 - 🔭 Currently building **Next Generation Dashboard IoT**
 - 🎯 Passionate about **Web Development, Internet of Things & Automation**
 - 📍 Based in **Indonesia** 🇮🇩
+- 💡 Love experimenting with hardware and software integration
 - 🌱 Always learning and exploring new technologies
 - 📫 Reach me: **n4cv@navtech.my.id**
 
@@ -77,21 +78,34 @@
 ## 🎯 Featured Projects
 
 ### 🌐 Next Generation Dashboard IoT
-Real-time IoT monitoring and control dashboard built with modern web technologies
+Real-time IoT monitoring and control dashboard built with modern web technologies. A NavTech project combining my passion for web development and hardware integration.
 
 **Tech Stack:** Next.js, React, WebSocket, TypeScript  
+**Features:** Real-time data visualization, device control, responsive design  
 🔗 [View Repositories](https://github.com/NaufalXDs?tab=repositories)
+
+### 🔄 Auto Backup
+A blazingly fast performance auto backup script with comprehensive logging system
+
+**Tech Stack:** Shell Script, Automation  
+🔗 [View Repository](https://github.com/NaufalXDs/Auto-Backup)
+
+### 🤖 Invitation Bot
+Automated bot for invitation management and task automation
+
+**Tech Stack:** Python, Automation  
+🔗 [View Repository](https://github.com/NaufalXDs/Invitation-Bot)
 
 ---
 
-## 🏢 Organizations
+## 🏢 Organizations & Communities
 
 <div align="center">
 
 | Organization | Role | Description |
 |--------------|------|-------------|
-| **NavTech** | Developer | Web Development & IoT Solutions |
-| **Human** | Contributor | Gaming Comunity |
+| 🚀 **NavTech** | Founder & Developer | Personal tech company for hobby projects - Web Development & IoT Solutions |
+| 🎮 **Human** | Contributor | Gaming Community & Open Source Projects |
 
 </div>
 
@@ -102,6 +116,18 @@ Real-time IoT monitoring and control dashboard built with modern web technologie
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaufalXDs&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </div>
+
+---
+
+## 💼 What I Do at NavTech
+
+At **NavTech**, I transform my tech hobbies into real projects:
+
+- 🌐 Building web applications with modern frameworks
+- 🔌 Creating IoT solutions for smart automation
+- 🤖 Developing automation tools and bots
+- 📊 Designing data visualization dashboards
+- 🔧 Experimenting with Raspberry Pi and Arduino projects
 
 ---
 
@@ -144,5 +170,5 @@ Real-time IoT monitoring and control dashboard built with modern web technologie
   
   **⭐️ From [NaufalXDs](https://github.com/NaufalXDs) | Made with ❤️ in Indonesia 🇮🇩**
   
-  *Member since July 2020 • 10 Public Repos • 3 Followers*
+  *Member since July 2020 • 10 Public Repos • 3 Followers • Turning hobbies into tech projects*
 </div>
