@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <i>I do what I'd like to do, I'm a tech or computer enthusiast. 🖥️</i>
+  <i>I do what I'd like to do. A tech and computer enthusiast, transforming hobbies into innovative tech projects.</i>
 </p>
 
 ---
