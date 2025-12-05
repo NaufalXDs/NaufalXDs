@@ -21,6 +21,7 @@
 - 📍 Based in **Indonesia** 🇮🇩
 - 💡 Love experimenting with hardware and software integration
 - 🌱 Always learning and exploring new technologies
+- 📅 **Coding since 2019** - 6+ years of development experience
 - 📫 Reach me: **n4cv@navtech.my.id**
 
 ---
@@ -65,7 +66,7 @@
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Espressif](https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Espressif](https://img.shields.io/badge/-Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -155,7 +156,7 @@ Project description here
 At **NavTech**, I transform my tech hobbies into real projects:
 
 - 🌐 Building **fullstack web applications** with React, Next.js, and Express.js
-- 🔌 Creating **IoT solutions** with ESP32, ESP8266, and Raspberry Pi
+- 🔌 Creating **IoT solutions** with Espressif, and Raspberry Pi
 - 📡 Designing **REST APIs** and **GraphQL** endpoints for seamless data flow
 - 🗄️ Managing databases with **MySQL** and **MariaDB**
 - ⚙️ Developing **embedded systems** using STM32 and Arduino
@@ -182,8 +183,7 @@ At **NavTech**, I transform my tech hobbies into real projects:
 | **STM32** | Advanced | Embedded systems, Real-time applications |
 | **Arduino** | Expert | Prototyping, Educational projects, Sensors |
 | **Raspberry Pi** | Expert | IoT gateway, Web server, Home automation |
-| **ESP32** | Expert | WiFi/Bluetooth IoT, Wireless sensors |
-| **ESP8266** | Advanced | WiFi IoT devices, Smart home nodes |
+| **Espressif** | Expert | WiFi/Bluetooth IoT, Wireless sensors |
 
 </div>
 
@@ -213,26 +213,6 @@ As a **Fullstack Developer**, I work across the entire development stack:
 - 🐳 Containerization with **Docker**
 - 🌐 Server deployment and management
 - 🔒 Security hardening and monitoring
-
----
-
-## 🔬 Test & Measurement Development
-
-Specialized in creating test automation and measurement solutions:
-
-### LabVIEW Development
-- 🧪 **Test Automation**: Automated test systems for hardware validation
-- 📊 **Data Acquisition**: Real-time data collection from sensors and instruments
-- 🔧 **Instrument Control**: Integration with test equipment (oscilloscopes, multimeters, etc.)
-- 📈 **Signal Processing**: Analysis and visualization of measurement data
-- 🎯 **Custom VIs**: Reusable LabVIEW components for efficient development
-
-### G Web Development Software
-- 🌐 **Web-Based Dashboards**: Browser-accessible measurement interfaces
-- 📱 **Remote Monitoring**: Access test systems from anywhere
-- 🔄 **Real-Time Updates**: Live data streaming and visualization
-- 🎨 **Modern UI**: Responsive web interfaces for test applications
-- 🔌 **Hardware Integration**: Connect web apps to physical instruments
 
 ---
 
@@ -291,9 +271,9 @@ I'm passionate about owning my data and infrastructure:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
   
-  **⭐️ From [NaufalXDs](https://github.com/NaufalXDs) | Made with ❤️ in Indonesia 🇮🇩**
+  **⭐️ From [NaufalXDs](https://github.com/NaufalXDs) | Made with ❤️**
   
-  *Member since July 2020 • Fullstack Developer • Turning hobbies into tech projects*
+  *Coding since 2019 • Member since July 2020 • Fullstack Developer • Turning hobbies into tech projects*
 </div>
 
 <!-- 
