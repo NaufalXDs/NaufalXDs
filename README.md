@@ -260,7 +260,7 @@ I'm passionate about owning my data and infrastructure:
 
 <img src="https://media1.tenor.com/m/vLK4Mq3jiKIAAAAd/cat-no.gif" width="250" alt="Cat GIF" />
 
-### 💭 Random Dev Quote
+### 💭 Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
