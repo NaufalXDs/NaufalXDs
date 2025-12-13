@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <i>I do what I'd like to do. A tech and computer enthusiast, transforming hobbies into innovative tech projects.</i>
+  <i>Building what I love, loving what I build. A tech and computer enthusiast, transforming hobbies into innovative tech projects.</i>
 </p>
 
 ---
@@ -273,7 +273,7 @@ I'm passionate about owning my data and infrastructure:
   
   **⭐️ From [NaufalXDs](https://github.com/NaufalXDs) | Made with ❤️**
   
-  *Coding since 2019 • Member since July 2020 • Fullstack Developer • Turning hobbies into tech projects*
+  *Coding since 2019 • Fullstack Developer • Turning hobbies into tech projects*
 </div>
 
 <!-- 
