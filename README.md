@@ -5,15 +5,6 @@
 I like building small but useful things with code, hardware, and Linux systems.  
 Most of my projects come from curiosity: web experiments, bots, IoT ideas, automation tools, and self-hosted setups.
 
-## Focus
-
-- 🌐 Web development
-- 🤖 Automation and bots
-- 🏠 Self-hosted infrastructure
-- 🔌 IoT and embedded systems
-- 🧠 AI agent experiments
-- 🛠️ Practical tools that solve real problems
-
 ## Stack
 
 <p>
